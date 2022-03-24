@@ -1,6 +1,8 @@
 <h1 align="center">Hey! 👋, I'm Linus!</h1>
 <h3 align="center">Avid frontend/fullstack developer student</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olesien" alt="olesien" /></a> </p>
+
 - 🔭 I’m studying at **Medieinstitutet in Malmo, sweden**
 
 - 👀 Looking for: **LIA (On-the-job training)**
@@ -20,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olesien&show_icons=true&locale=en&layout=compact" alt="olesien" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olesien&show_icons=true&locale=en" alt="olesien" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olesien&" alt="olesien" /></p>
