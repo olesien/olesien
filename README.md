@@ -1,11 +1,11 @@
 <h1 align="center">Hey! 👋, I'm Linus!</h1>
 <h3 align="center">Avid frontend/fullstack developer student</h3>
 
-- 🔭 I’m studying at **Medieinstitutet in Malmo, sweden**
+- 🔭 I’m studying at **Medieinstitutet in Malmo, sweden** (graduating in May! 💐)
 
-- 👀 Looking for: **LIA (On-the-job training)**
+- 👀 Looking for: **Job as Frontend / Fullstack developer**
 
-- 📫 If you'd like to reach me, mail me at **olesien2@gmail.com**
+- 📫 If you'd like to reach me, mail me at **linus-lindberg@outlook.com**
 
 - ⚡ Fun fact **[-insert something funny-]**
 
