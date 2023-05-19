@@ -1,7 +1,7 @@
 <h1 align="center">Hey! 👋, I'm Linus!</h1>
-<h3 align="center">Avid frontend/fullstack developer student</h3>
+<h3 align="center">Avid frontend/fullstack developer</h3>
 
-- 🔭 I’m studying at **Medieinstitutet in Malmo, sweden** (graduating in May! 💐)
+- 🔭 Just graduated **Medieinstitutet in Malmo, sweden** 
 
 - 👀 Looking for: **Job as Frontend / Fullstack developer**
 
